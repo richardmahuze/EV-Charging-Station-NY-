@@ -15,3 +15,5 @@ Aim: To see patterns of existing charging stations and define key features in te
 * Model optimization: Hyper parameter tuning
 * Model evaluation: performance measures, accuracy, cv
 
+## Exploratory Data Analysis
+![Heatmap of Charging Stations in NY](https://github.om/richardmahuze/EV-Charging-Station-NY-/blob/master/images/heatmap_ny.PNG)
