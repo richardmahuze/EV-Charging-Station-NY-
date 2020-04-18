@@ -16,9 +16,10 @@ Aim: To see patterns of existing charging stations and define key features in te
 * Model evaluation: performance measures, accuracy, cv
 
 ## Exploratory Data Analysis
-
 <p align="center">
   <img src='images/heatmap_ny.PNG'/>
 </p>
 
-
+<p align="center">
+  <img src='https://github.com/richardmahuze/EV-Charging-Station-NY-/blob/master/images/pairplot.png'/>
+</p>
